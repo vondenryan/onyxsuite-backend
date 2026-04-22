@@ -1,6 +1,6 @@
-Onyx Core License v1.2
+Onyx Core License v1.0
 
-Copyright (c) 2026 SeuNome
+Copyright (c) 2026 Ryan Bylaardt
 
 Permission is hereby granted to use, copy, and modify this software for personal and non-commercial purposes, subject to the following conditions:
 
